@@ -133,9 +133,9 @@ PRODUCT_PACKAGES += \
     libQcomUI \
     libtilerenderer
 
-# GPS
-#PRODUCT_PACKAGES += \
-#    gps.ville \
+# Camera App
+PRODUCT_PACKAGES += \
+    Camera
 
 # Lights
 PRODUCT_PACKAGES += \

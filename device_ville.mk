@@ -114,6 +114,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Torch
 
+# Camera
+PRODUCT_PACKAGES += \
+    Camera
+
 # Kernel modules
 PRODUCT_COPY_FILES += \
     device/htc/ville/modules/ansi_cprng.ko:/system/lib/modules/ansi_cprng.ko \

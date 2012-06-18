@@ -103,9 +103,9 @@
 /dev/msm_amrnb_in         0640  system       audio
 
 # for ville sensors
-/dev/akm8975_aot          0640  system       system
-/dev/akm8975_daemon       0640  system       system
-/dev/bma150               0640  system       system
+/dev/akm8975_aot          0640  compass      system
+/dev/akm8975_daemon       0640  compass      system
+/dev/bma150               0640  compass      system
 /dev/ewtzmu2daemon        0640  system       system
 /dev/ewtzmu2hal           0640  system       system
 /dev/ewtzmu2              0640  system       system

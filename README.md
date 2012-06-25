@@ -20,5 +20,4 @@ Working:
 Known issues:
 * Data state changes may not always acquire IP via DHCP
 * LPA volume is ridiculously high
-* Wifi tethering does not work
 * Wifi calling not available

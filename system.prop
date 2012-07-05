@@ -56,3 +56,11 @@ persist.thermal.monitor=true
 
 # UMS
 persist.sys.usb.config=mass_storage,adb
+
+# hardware info
+ro.device.cpu=1.5GHz Qualcomm MSM8260A Snapdragon
+ro.device.gpu=Adreno 225
+ro.device.rear_cam=8 MP
+ro.device.front_cam=1.3 MP
+ro.device.screen_res=540x960
+

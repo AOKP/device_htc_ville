@@ -1,0 +1,9 @@
+Change-Id: I4d5afa40c54c164b1629a1186555f21b1581592c
+Code-Review+2: Roman Birg <romanbirg@gmail.com>
+Verified+1: Roman Birg <romanbirg@gmail.com>
+Code-Review+1: Roy Kartadinata <drhonk@gmail.com>
+Submitted-by: Roman Birg <romanbirg@gmail.com>
+Submitted-at: Wed, 11 Jul 2012 19:37:30 -0400
+Reviewed-on: http://gerrit.sudoservers.com/1713
+Project: AOKP/android_device_htc_ville
+Branch: refs/heads/ics
